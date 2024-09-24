@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Carlo Proserpio!<br><br></h1>
+<h1 align="center"><img src="icon_samus.png" width="40">Hello, I'm Carlo Proserpio!<br><br></h1>
 
 🎓 **Master’s Student in Computer Engineering** at Università degli Studi Roma Tre.  
 💻 Passionate about **software** and **hardware**, with a particular focus on **low-level programming**, **backend development**, and **software algorithms**. I'm always eager to experiment and expand my knowledge through new projects.
