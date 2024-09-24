@@ -25,11 +25,7 @@
     <img src="https://skillicons.dev/icons?i=dotnet,eclipse,fastapi,flutter,idea,notion,vscode,visualstudio,kafka" width="410">
 </span>
 
-<br><br>
-
-#
-
-<br>
+<br><br><br>
 
 <h4 align="center">
   📫 Let's connect
