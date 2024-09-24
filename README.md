@@ -1,4 +1,4 @@
-<h1 align="center"><img src="icon_samus.png" width="40">Hello, I'm Carlo Proserpio!<br><br></h1>
+<h1 align="center"><img src="icon_samus.png" width="60"><br>Hello, I'm Carlo Proserpio!<br><br></h1>
 
 🎓 **Master’s Student in Computer Engineering** at Università degli Studi Roma Tre.  
 💻 Passionate about **software** and **hardware**, with a particular focus on **low-level programming**, **backend development**, and **software algorithms**. I'm always eager to experiment and expand my knowledge through new projects.
@@ -13,7 +13,7 @@
 <br>
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?include_all_commits=false&theme=synthwave&bg_color=150deg,c9a400,c40849,be00ff&text_color=ffffff&icon_color=ffffff&hide_border=true&hide_rank=true&custom_title=GitHub%20stats&title_color=ffffff&show_icons=true&locale=en&username=Prox747" width="430" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api?include_all_commits=false&theme=synthwave&bg_color=150deg,c9a400,c40849,be00ff&text_color=ffffff&icon_color=ffffff&hide_border=true&hide_rank=true&custom_title=GitHub%20stats&title_color=ffffff&show_icons=true&locale=en&username=Prox747" width="430" align="right"/>
     <h3><b>Programming Languages</b></h3>
       <img src="https://skillicons.dev/icons?i=c,python,java,html,css,dart,cs,bash,latex" width="410">
     <h3><b>Frameworks & Tools</b></h3>
