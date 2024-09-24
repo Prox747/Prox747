@@ -13,21 +13,18 @@
 <br>
 
 <p align=center>
-    <img src="https://github-readme-stats.vercel.app/api?include_all_commits=false&theme=synthwave&bg_color=150deg,c9a400,c40849,be00ff&text_color=ffffff&icon_color=ffffff&hide_border=true&hide_rank=true&custom_title=GitHub%20stats&title_color=ffffff&show_icons=true&locale=en&username=Prox747" width="410" />
+    <img src="https://github-readme-stats-chi-lake-49.vercel.app/api?include_all_commits=true&theme=synthwave&bg_color=150deg,c9a400,c40849,be00ff&text_color=ffffff&icon_color=ffffff&hide_border=true&hide_rank=true&custom_title=GitHub%20stats&title_color=ffffff&show_icons=true&locale=en&username=Prox747" width="410" />
 </p>
 <br>
-  
-<p align=center>
-  <span align="left">
-      <h3><b>Programming Languages</b></h3>
-        <img src="https://skillicons.dev/icons?i=c,python,java,html,css,dart,cs,bash,latex" width="410">
-  </span>
-  <span align="right">
-      <h3><b>Frameworks & Tools</b></h3>
-        <img src="https://skillicons.dev/icons?i=spring,docker,git,bootstrap,postgres,sklearn,gradle,maven,hibernate,kafka" width="410">
-        <img src="https://skillicons.dev/icons?i=blender,dotnet,eclipse,fastapi,flutter,idea,notion,vscode,visualstudio" width="370">
-  </span>
-</p>
+
+<h3><b>Programming Languages</b></h3>
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,dart,cs,bash,latex" width="410">
+
+<span>
+    <h3><b>Frameworks & Tools</b></h3>
+    <img src="https://skillicons.dev/icons?i=spring,docker,git,bootstrap,postgres,sklearn,gradle,maven,hibernate" width="410">
+    <img src="https://skillicons.dev/icons?i=dotnet,eclipse,fastapi,flutter,idea,notion,vscode,visualstudio,kafka" width="410">
+</span>
 
 #
 
