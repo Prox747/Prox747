@@ -10,10 +10,12 @@
 - **American High School Diploma** – Mater Academy High School, Miami  
 - **Cambridge B2 English Certification**
 
-#
+<br>
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?include_all_commits=false&theme=synthwave&bg_color=150deg,c9a400,c40849,be00ff&text_color=ffffff&icon_color=ffffff&hide_border=true&hide_rank=true&custom_title=GitHub%20stats&title_color=ffffff&show_icons=true&locale=en&username=Prox747" width="410" align="left"/>
+    <img src="https://github-readme-stats.vercel.app/api?include_all_commits=false&theme=synthwave&bg_color=150deg,c9a400,c40849,be00ff&text_color=ffffff&icon_color=ffffff&hide_border=true&hide_rank=true&custom_title=GitHub%20stats&title_color=ffffff&show_icons=true&locale=en&username=Prox747" width="410" />
+  <br>
+  
   <h3><b>Programming Languages</b></h3>
     <img src="https://skillicons.dev/icons?i=c,python,java,html,css,dart,cs,bash,latex" width="410">
   <h3><b>Frameworks & Tools</b></h3>
