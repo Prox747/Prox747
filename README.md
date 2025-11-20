@@ -1,10 +1,10 @@
 <h1 align="center"><img src="icon_samus.png" width="60"><br>Hello, I'm Carlo Proserpio!<br><br></h1>
 
-🎓 **Master’s Student in Computer Engineering** at Università degli Studi Roma Tre.  
+🎓 **Computer and Software Engineer**.
 💻 Passionate about **software** and **hardware**, with a particular focus on **low-level programming**, **backend development**, and **software algorithms**. I'm always eager to experiment and expand my knowledge through new projects.
 
 ### 📚 **Education**
-- **Master’s Degree in Computer Engineering (in progress)** – Università degli Studi Roma Tre  
+- **Master’s Degree in Computer Engineering** – Università degli Studi Roma Tre (110/110 cum laude)
 - **Bachelor’s Degree in Computer Engineering** – Università degli Studi Roma Tre (110/110 cum laude)  
 - **Italian High School Diploma** – Liceo Scientifico Stanislao Cannizzaro, Roma  
 - **American High School Diploma** – Mater Academy High School, Miami  
