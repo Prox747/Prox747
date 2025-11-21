@@ -17,12 +17,12 @@
 </p>
 
 <h3><b>Programming Languages</b></h3>
-<img src="https://skillicons.dev/icons?i=c,python,java,html,css,dart,cs,bash,latex" width="410">
+<img src="https://skillicons.dev/icons?i=c,python,java,html,css,typescript,cs,cpp,latex" width="410">
 
 <span>
     <h3><b>Frameworks & Tools</b></h3>
     <img src="https://skillicons.dev/icons?i=spring,docker,git,bootstrap,postgres,sklearn,gradle,maven,hibernate" width="410">
-    <img src="https://skillicons.dev/icons?i=dotnet,eclipse,fastapi,flutter,idea,notion,vscode,visualstudio,kafka" width="410">
+    <img src="https://skillicons.dev/icons?i=dotnet,eclipse,fastapi,flutter,idea,notion,vscode,visualstudio,npm" width="410">
 </span>
 
 <br><br><br>
