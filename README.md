@@ -3,7 +3,7 @@
 🎓 **Computer and Software Engineer**.
 💻 Passionate about **software** and **hardware**, with a particular focus on **low-level programming**, **backend development**, and **software algorithms**. I'm always eager to experiment and expand my knowledge through new projects.
 
-🚀 **Currently dedicated full-time** to building a Vulkan <a href="https://github.com/pxt-engine/pxt-engine"><img src="https://img.shields.io/badge/Custom_Engine-Project-FFD700?style=flat-square&logo=cplusplus&logoColor=black" alt="Custom Engine" valign="middle"></a> with a friend.
+🚀 **Currently dedicated full-time** to building a Vulkan &nbsp; <sub><a href="https://github.com/pxt-engine/pxt-engine"><img src="https://img.shields.io/badge/Custom_Engine-Project-be00ff?style=flat-square&logo=cplusplus&logoColor=white" alt="Custom Engine"></a></sub> &nbsp; with a friend.
 
 ### 📚 **Education**
 - **Master’s Degree in Computer Engineering** – Università degli Studi Roma Tre (110/110 cum laude)
